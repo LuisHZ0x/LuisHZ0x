@@ -10,7 +10,7 @@
 
 - 👨‍🎓 University student 
 - 💻 Web Developer
-- 📖 I’m currently learning TypeScript
+- 📖 I’m currently learning TypeScript and Angular JS
 <br>
 
 <!-- Tech Skills -->
