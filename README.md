@@ -23,3 +23,11 @@
   <img width="60px" height='48px' src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img width="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
 </div>
+
+<h3>My Statistics</h3>
+<p><img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=LuisHZ0x&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
+    alt="adam-pw" 
+    bg_color=#808080/></p>
+
+<br>
