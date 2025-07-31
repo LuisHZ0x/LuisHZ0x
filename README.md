@@ -24,3 +24,4 @@
 <a href= https://github.com/JhonnyRamos04?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src 
 ='https://raw.githubusercontent.com/pheralb/svgl/main/static/library/css.svg'> </a>
 <a href= https://github.com/JhonnyRamos04?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src      ='https://raw.githubusercontent.com/pheralb/svgl/main/static/library/html5.svg'> </a> -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5.428 17.245l6.076 3.471a1 1 0 0 0 .992 0l6.076-3.471a1 1 0 0 0 .495-.734l1.323-9.704a1 1 0 0 0-.658-1.078l-7.4-2.612a1 1 0 0 0-.665 0L4.268 5.73a1 1 0 0 0-.658 1.078l1.323 9.704a1 1 0 0 0 .495.734z"></path><path d="M9 15l3-8l3 8"></path><path d="M10 13h4"></path></g></svg>
