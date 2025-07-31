@@ -24,4 +24,6 @@
 <a href= https://github.com/JhonnyRamos04?tab=repositories&q=&type=&language=css&sort= > <img width ='32px' src 
 ='https://raw.githubusercontent.com/pheralb/svgl/main/static/library/css.svg'> </a>
 <a href= https://github.com/JhonnyRamos04?tab=repositories&q=&type=&language=html&sort= > <img width ='32px' src      ='https://raw.githubusercontent.com/pheralb/svgl/main/static/library/html5.svg'> </a> -->
-<img width='32px' src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black'>
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original-wordmark.svg"/>
+          
